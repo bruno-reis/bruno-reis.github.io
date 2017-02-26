@@ -1,7 +1,7 @@
 title: Bruno Reis
-description: 
-google_analytics: 
-show_downloads: true
+description: My personal website
+google_analytics: false
+show_downloads: false
 theme: jekyll-theme-hacker
 
 gems:
