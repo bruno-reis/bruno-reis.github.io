@@ -1,8 +1,0 @@
-title: Bruno Reis
-description: My personal website
-google_analytics: false
-show_downloads: false
-theme: jekyll-theme-hacker
-
-gems:
-  - jekyll-mentions
